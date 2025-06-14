@@ -32,7 +32,7 @@ print()
 
 slope_1 = 2
 b = -2
-x_intercept = -b / m
+x_intercept = -b / slope_1
 y_intercept = b
 
 x1, y1 = 2, 2
