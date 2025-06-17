@@ -56,3 +56,6 @@ Each day is organized in its own folder containing the related Python .py script
 | 28  | Python DateTime         | 🔜     |
 | 29  | Python Collections      | 🔜     |
 | 30  | Final Project           | 🔜     |
+
+# License
+MIT License - free for educational and personal use
