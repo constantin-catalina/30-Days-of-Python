@@ -30,32 +30,32 @@ Each day is organized in its own folder containing the related Python .py script
 | 2   | Variables               | ✅     |
 | 3   | Operators               | ✅     |
 | 4   | Strings                 | ✅     |
-| 5   | String Methods          | ✅     |
-| 6   | Numbers                 | 🔜     |
-| 7   | List                    | 🔜     |
-| 8   | Tuples                  | 🔜     |
-| 9   | Sets                    | 🔜     |
-| 10  | Dictionaries            | 🔜     |
-| 11  | Conditionals (If-Else)  | 🔜     |
-| 12  | Loops                   | 🔜     |
-| 13  | Functions               | 🔜     |
-| 14  | Lambda Functions        | 🔜     |
-| 15  | Map, Filter, Reduce     | 🔜     |
-| 16  | List Comprehension      | 🔜     |
+| 5   | Lists                   | ✅     |
+| 6   | Tuples                  | 🔜     |
+| 7   | Sets                    | 🔜     |
+| 8   | Dictionaries            | 🔜     |
+| 9   | Conditionals            | 🔜     |
+| 10  | Loops                   | 🔜     |
+| 11  | Functions               | 🔜     |
+| 12  | Modules                 | 🔜     |
+| 13  | List Comprehension      | 🔜     |
+| 14  | Higher Order Functions  | 🔜     |
+| 15  | Python Type Errors      | 🔜     |
+| 16  | Python Date time        | 🔜     |
 | 17  | Exception Handling      | 🔜     |
-| 18  | Files                   | 🔜     |
-| 19  | Modules and Packages    | 🔜     |
-| 20  | Object-Oriented Python  | 🔜     |
+| 18  | Regular Expressions     | 🔜     |
+| 19  | File Handling           | 🔜     |
+| 20  | Python Package Manager  | 🔜     |
 | 21  | Classes and Objects     | 🔜     |
-| 22  | Inheritance             | 🔜     |
-| 23  | Regular Expressions     | 🔜     |
-| 24  | Python Debugging        | 🔜     |
-| 25  | Python Web Scraping     | 🔜     |
-| 26  | Python JSON             | 🔜     |
-| 27  | Python CSV              | 🔜     |
-| 28  | Python DateTime         | 🔜     |
-| 29  | Python Collections      | 🔜     |
-| 30  | Final Project           | 🔜     |
+| 22  | Web Scraping            | 🔜     |
+| 23  | Virtual Environment     | 🔜     |
+| 24  | Statistics              | 🔜     |
+| 25  | Pandas                  | 🔜     |
+| 26  | Python web              | 🔜     |
+| 27  | Python with MongoDB     | 🔜     |
+| 28  | API                     | 🔜     |
+| 29  | Building API            | 🔜     |
+| 30  | Conclusions             | ✅     |
 
 # License
 MIT License - free for educational and personal use
