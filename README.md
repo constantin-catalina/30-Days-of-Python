@@ -48,7 +48,7 @@ Each day is organized in its own folder containing the related Python .py script
 | 20  | Python Package Manager  | 🔜     |
 | 21  | Classes and Objects     | 🔜     |
 | 22  | Web Scraping            | 🔜     |
-| 23  | Virtual Environment     | 🔜     |
+| 23  | Virtual Environment     | ✅     |
 | 24  | Statistics              | 🔜     |
 | 25  | Pandas                  | 🔜     |
 | 26  | Python web              | 🔜     |
