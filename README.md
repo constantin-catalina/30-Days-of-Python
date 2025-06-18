@@ -30,7 +30,7 @@ Each day is organized in its own folder containing the related Python .py script
 | 2   | Variables               | ✅     |
 | 3   | Operators               | ✅     |
 | 4   | Strings                 | ✅     |
-| 5   | String Methods          | 🔜     |
+| 5   | String Methods          | ✅     |
 | 6   | Numbers                 | 🔜     |
 | 7   | List                    | 🔜     |
 | 8   | Tuples                  | 🔜     |
