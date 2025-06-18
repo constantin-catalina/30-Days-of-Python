@@ -1,0 +1,14 @@
+Setting up Virtual Environments:
+-> virtual environments allow to create an isolated of separate environment
+-> help us to avoid conflicts in dependencies across projects
+
+pip freeze -> see all installed packages on your computer
+
+pip install virtualenv
+
+virtualenv venv -> create a virtual environment on Mac/Linux
+python -m venv venv -> create a virtual environment on Windows
+
+venv\bin\activate -> to activate the venv
+
+deactivate -> deactivate the venv
