@@ -41,7 +41,7 @@ Each day is organized in its own folder containing the related Python .py script
 | 13  | List Comprehension      | ✅     |
 | 14  | Higher Order Functions  | 🔜     |
 | 15  | Python Type Errors      | 🔜     |
-| 16  | Python Date time        | 🔜     |
+| 16  | Python Date time        | ✅     |
 | 17  | Exception Handling      | 🔜     |
 | 18  | Regular Expressions     | 🔜     |
 | 19  | File Handling           | 🔜     |
