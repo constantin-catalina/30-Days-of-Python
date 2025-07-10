@@ -44,7 +44,7 @@ Each day is organized in its own folder containing the related Python .py script
 | 16  | Python Date time        | ✅     |
 | 17  | Exception Handling      | 🔜     |
 | 18  | Regular Expressions     | 🔜     |
-| 19  | File Handling           | 🔜     |
+| 19  | File Handling           | ✅     |
 | 20  | Python Package Manager  | 🔜     |
 | 21  | Classes and Objects     | 🔜     |
 | 22  | Web Scraping            | 🔜     |
