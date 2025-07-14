@@ -36,7 +36,7 @@ Each day is organized in its own folder containing the related Python .py script
 | 8   | Dictionaries            | 🔜     |
 | 9   | Conditionals            | 🔜     |
 | 10  | Loops                   | 🔜     |
-| 11  | Functions               | 🔜     |
+| 11  | Functions               | ✅     |
 | 12  | Modules                 | 🔜     |
 | 13  | List Comprehension      | ✅     |
 | 14  | Higher Order Functions  | 🔜     |
